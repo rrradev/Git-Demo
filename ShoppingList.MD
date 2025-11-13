@@ -4,3 +4,6 @@
 4. Beer
 5. Cheese
 6. Peas
+7. Cucumber
+8. Beans
+
